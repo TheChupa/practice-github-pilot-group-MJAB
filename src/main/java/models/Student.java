@@ -40,4 +40,6 @@ public class Student {
     public void setLastName(String lastName) {
         this.lastName = lastName;
     }
+
+    public void setId(Long id) { this.id = id; }
 }

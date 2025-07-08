@@ -41,5 +41,7 @@ public class Teacher {
     public void setLastName(String lastName) {
         this.lastName = lastName;
     }
+
+    public void setId(Long id) { this.id = id; }
 }
 
